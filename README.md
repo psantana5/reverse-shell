@@ -2,10 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Reverse Shell Description</title>
-</head>
 <body>
   <p>Remember to use this under a controlled environment, and I will not be responsible for any damage that this piece of code can cause.<p/>
   <h1>🐧 Linux Reverse Shell 🐧</h1>
